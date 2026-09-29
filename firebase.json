@@ -1,0 +1,1 @@
+{"firestore":{"rules":"firestore.rules"},"flutter":{"platforms":{"android":{"default":{"projectId":"expense-tracker-6e7dd","appId":"1:1029861845585:android:180ab65e16a8adba302670","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"expense-tracker-6e7dd","configurations":{"ios":"1:1029861845585:ios:be06a7a7d63db372302670"}}}}}}

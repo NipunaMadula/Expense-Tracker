@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029861845585",
+    "project_id": "expense-tracker-6e7dd",
+    "storage_bucket": "expense-tracker-6e7dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029861845585:android:180ab65e16a8adba302670",
+        "android_client_info": {
+          "package_name": "com.cyphlab.expensetracker.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRonod3U3s62FoEJpOjO906ICF7l_Cj0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
